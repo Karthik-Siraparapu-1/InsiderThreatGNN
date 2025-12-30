@@ -21,11 +21,6 @@ A **self-supervised Graph Neural Network system** for detecting insider threats 
 - Temporal graph snapshots
 - Heterogeneous network modeling
 
-### 🎯 Production Ready
-- Complete evaluation metrics
-- Error handling and logging
-- GPU acceleration support
-- Comprehensive documentation
 
 ### 📊 High Performance
 
